@@ -1,0 +1,8 @@
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\6. Even and Odd Subtraction\bin\Debug\_6.Even_and_Odd_Subtraction.exe.config
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\6. Even and Odd Subtraction\bin\Debug\_6.Even_and_Odd_Subtraction.exe
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\6. Even and Odd Subtraction\bin\Debug\_6.Even_and_Odd_Subtraction.pdb
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\6. Even and Odd Subtraction\obj\Debug\6. Even and Odd Subtraction.csproj.AssemblyReference.cache
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\6. Even and Odd Subtraction\obj\Debug\6. Even and Odd Subtraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\6. Even and Odd Subtraction\obj\Debug\6. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\6. Even and Odd Subtraction\obj\Debug\_6.Even_and_Odd_Subtraction.exe
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\6. Even and Odd Subtraction\obj\Debug\_6.Even_and_Odd_Subtraction.pdb

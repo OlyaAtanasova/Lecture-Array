@@ -1,2 +1,2 @@
-# Lecture-Array
-This is a Softuni lecture for arrays.
+# Lecture-Arrays
+Softuni lecture for arrays.

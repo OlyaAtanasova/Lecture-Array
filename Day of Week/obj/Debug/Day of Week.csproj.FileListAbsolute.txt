@@ -1,0 +1,8 @@
+C:\Users\olyaa\source\repos\Lecture 3\Day of Week\bin\Debug\Day of Week.exe.config
+C:\Users\olyaa\source\repos\Lecture 3\Day of Week\bin\Debug\Day of Week.exe
+C:\Users\olyaa\source\repos\Lecture 3\Day of Week\bin\Debug\Day of Week.pdb
+C:\Users\olyaa\source\repos\Lecture 3\Day of Week\obj\Debug\Day of Week.csproj.AssemblyReference.cache
+C:\Users\olyaa\source\repos\Lecture 3\Day of Week\obj\Debug\Day of Week.csproj.SuggestedBindingRedirects.cache
+C:\Users\olyaa\source\repos\Lecture 3\Day of Week\obj\Debug\Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\olyaa\source\repos\Lecture 3\Day of Week\obj\Debug\Day of Week.exe
+C:\Users\olyaa\source\repos\Lecture 3\Day of Week\obj\Debug\Day of Week.pdb

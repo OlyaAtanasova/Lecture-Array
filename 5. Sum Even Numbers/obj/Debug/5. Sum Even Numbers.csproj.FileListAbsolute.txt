@@ -1,0 +1,8 @@
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\5. Sum Even Numbers\bin\Debug\_5.Sum_Even_Numbers.exe.config
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\5. Sum Even Numbers\bin\Debug\_5.Sum_Even_Numbers.exe
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\5. Sum Even Numbers\bin\Debug\_5.Sum_Even_Numbers.pdb
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\5. Sum Even Numbers\obj\Debug\5. Sum Even Numbers.csproj.AssemblyReference.cache
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\5. Sum Even Numbers\obj\Debug\5. Sum Even Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\5. Sum Even Numbers\obj\Debug\5. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\5. Sum Even Numbers\obj\Debug\_5.Sum_Even_Numbers.exe
+C:\Users\olyaa\source\repos\Lecture 3\Lecture-Arrays\5. Sum Even Numbers\obj\Debug\_5.Sum_Even_Numbers.pdb
